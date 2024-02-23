@@ -1,0 +1,5 @@
+Run queries through the studio then use retools to add the data to the app as an API with RavenDB Cloud. 
+
+Example: 
+This will load all the customers then you select a customer from there say you would like to add or monitor points.
+"From Customers"
