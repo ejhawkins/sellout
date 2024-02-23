@@ -1,0 +1,16 @@
+[
+  {
+    type: 'line',
+     
+      "Days": {
+        // Days of the Week
+        x: [1, 3, 5, 7],
+      }
+
+      // Point Earned
+      "pointsAdd":
+      { 
+         y: [10, 15, 13, 17],
+      },
+  },
+]
